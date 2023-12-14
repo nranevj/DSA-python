@@ -1,3 +1,3 @@
 # DSA-python
 
-This repository has DSA concept implementations or problem solving (leetcode) in Python
+This repository has DSA concept implementations or problem solving (mostly leetcode) in Python
