@@ -75,9 +75,9 @@ class Solution:
             and int(tiles[third]) == int(tiles[second]) + 1
         )
 
-
-print(Solution.is_mahjong_win("123"))
-print(Solution.is_mahjong_win("11223344555678"))
-print(Solution.is_mahjong_win("12233344555599"))
-print(Solution.is_mahjong_win("11133678"))
-print(Solution.is_mahjong_win("12733344558559"))
+if __name__ == "__main__":
+    print(Solution.is_mahjong_win("123"))
+    print(Solution.is_mahjong_win("11223344555678"))
+    print(Solution.is_mahjong_win("12233344555599"))
+    print(Solution.is_mahjong_win("11133678"))
+    print(Solution.is_mahjong_win("12733344558559"))
